@@ -1,10 +1,12 @@
-package github.hhelibep.core;
+package github.hhelibep.core.chapter2_4;
 
 import java.util.Scanner;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.Test;
+
+import github.hhelibep.core.Issue;
 
 public class NumbersCalculation_multiArray implements Issue {
 	Logger logger = LoggerFactory.getLogger(Issue.class);
