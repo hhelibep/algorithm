@@ -22,6 +22,7 @@ public class RevertTriangle implements Issue {
 			}
 			System.out.println(stringBuilder.toString());
 		}
+		scanner.close();
 	}
 
 	@Test
